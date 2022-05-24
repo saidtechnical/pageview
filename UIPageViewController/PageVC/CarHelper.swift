@@ -8,7 +8,6 @@
 import UIKit
 
 struct CarHelper {
-    var name = String()
-    var image = UIImage()
+
 }
    
